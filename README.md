@@ -9,7 +9,7 @@ Este é um projeto simples desenvolvido utilizando HTML e CSS.
 ## Estrutura do Projeto
 ```
 /
-|-- Portifólio.html
+|-- index.html
 |-- style.css
 |-- imagens
 ```

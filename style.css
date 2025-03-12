@@ -59,8 +59,9 @@ header nav ul{
 }
 
 header nav ul li{
-    display: inline-block;
-    padding: 0 40px;
+    display: inline-block 20px;
+    
+    padding: 0 20px;
 }
 
 .rsm-contato button:hover{

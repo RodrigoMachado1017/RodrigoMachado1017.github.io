@@ -59,8 +59,7 @@ header nav ul{
 }
 
 header nav ul li{
-    display: inline-block 20px;
-    
+    display: inline-block 50px;
     padding: 0 20px;
 }
 

@@ -33,7 +33,7 @@ body{
 
 /* ESTILO DO CABEÇALHO */
 header{
-    padding: 30px 4%;
+    padding: 50px 4%;
 }
 
 header > .interface{
@@ -60,7 +60,7 @@ header nav ul{
 
 header nav ul li{
     display: inline-block;
-    padding: 0 20px;
+    padding: 0 50px;
 }
 
 .rsm-contato button:hover{
